@@ -1,3 +1,1 @@
-Sample Projects
-
-Place to hold work samples.
+Pokemon Defense to Weight Correlation
